@@ -1,2 +1,2 @@
 # marcov-chain
-A class library from implementing Markov Chains
+A class library for implementing Markov Chains
